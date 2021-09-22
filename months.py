@@ -10,9 +10,7 @@ def main():
     # this function is the program
 
     # input
-    month_number = int(
-        input("Enter the number of a month (ex. 2 for February): ")
-    )
+    month_number = int(input("Enter the number of a month (ex. 2 for February): "))
 
     # process & output
     if month_number == 1:
